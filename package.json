@@ -1,0 +1,25 @@
+{
+  "name": "rn-keyevent",
+  "version": "0.0.1",
+  "author": "TecladistaProd",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "homepage": "https://github.com/MrToph/react-native-android-library-boilerplate",
+  "keywords": [
+    "react-native",
+    "android",
+    "library",
+    "JavaScript"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
